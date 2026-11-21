@@ -1,0 +1,3 @@
+#pragma once
+#include <Arduino.h>
+const char lorem_p[] PROGMEM = R"(Lorem ipsum dolor sit amet, consectetur adipiscing elit. Even volutpat lacus eget mauris euismod vehicula. Ut vel lorem felis. No facilisi. Fusce suscipit a ipsum sit amet amet tristique. Nunc cursus ipsum vel sem convallis pharetra. Intincidunt, urna sit amet tempor egestas, diam libero semper velit, ut porta mauris sapien at nisi.massa eufermentumtincidunt, now ligula volutpat enim, tempor finibus Tellus ex at lorem ipsum dolor sit amet, consectetur adipiscing elit. вопрос времени и времени.";
